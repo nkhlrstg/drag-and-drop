@@ -1,0 +1,32 @@
+[
+    {
+        "heading_text": "Write down Aman or Mina in the blank:",
+        "heading_bgColor":"#9b1714",
+        "heading_txtColor":"#fff",
+        "finish_image": "./img/bye.jpg"
+    },
+    {
+        "question": "I have a cycle",
+        "options": ["Aman", "Mina"],
+        "correct_option": "Mina",
+        "question_image": "./img/img1.png"
+    },
+    {
+        "question": "I press my ball",
+        "options": ["Aman", "Mina"],
+        "correct_option": "Aman",
+        "question_image": "./img/img2.webp"
+    },
+    {
+        "question": "I go slowly",
+        "options": ["Aman", "Mina"],
+        "correct_option": "Mina",
+        "question_image": ""
+    },
+    {
+        "question": "____ is a cat",
+        "options": ["This", "That"],
+        "correct_option": "This",
+        "question_image": ""
+    }
+]
